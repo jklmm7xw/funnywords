@@ -179864,6 +179864,7 @@ omnivorously
 omnivorousness
 omnivorousnesses
 omnivory
+omo
 omohyoid
 omohyoids
 omophagia
@@ -201681,6 +201682,8 @@ plushinesses
 plushly
 plushness
 plushnesses
+plushophilia
+plushophilias
 plushy
 plusing
 plussage
@@ -203738,6 +203741,8 @@ poovier
 pooviest
 poovy
 pop
+pop-up
+pop-ups
 popcorn
 popcorns
 pope
@@ -233532,6 +233537,7 @@ samely
 samen
 sameness
 samenesses
+samerisgay
 sames
 samey
 sameyness
@@ -246821,6 +246827,10 @@ slacker
 slackers
 slackest
 slacking
+slackline
+slackliner
+slackliners
+slacklines
 slacklining
 slacklinings
 slackly
@@ -307265,12 +307275,3 @@ zyzzyva
 zyzzyvas
 zzz
 zzzs
-omo
-plushophilia
-pop-up
-pop-ups
-plushophilias
-slackline
-slacklines
-slackliner
-slackliners
